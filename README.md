@@ -9,5 +9,8 @@ This project is to practice building web-pages. It is an initial project I creat
 - git clone "link"
   - Pulls down a clone of the Repository in the link
 - git init
-- git add -A
 - git remote -v
+- git add -A
+- git commit -m"myMessage"
+- git push origin master
+- git checkout -b new_branch_name
